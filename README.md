@@ -13,6 +13,6 @@ To build a solid foundation in IT and transition to a cybersecurity career by 20
 - [ ] IT concepts and Terminology
 - [ ] Infrastructure
 - [ ] Applications and Software
-- [ ] Software Deveolpment Concepts
-- [ ] Data and Database Fundamentales
-- [ ] security
+- [ ] Software Development Concepts
+- [ ] Data and Database Fundamentals
+- [ ] Security
