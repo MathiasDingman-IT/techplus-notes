@@ -7,3 +7,8 @@
 - **Output** = the information the computer gives back (screens, sound, printers, ie peripherals)
 
 Computer Cycle = the process of how input is entered, processed, stored and how output is given to the user
+
+## Notational Systems
+
+- **Binary** = a 2-base system of counting using 1,0 (or yes/no, true/false, on/off)
+- ••Decial•• 
