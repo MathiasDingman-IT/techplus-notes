@@ -25,3 +25,11 @@ Computer Cycle = The process of how input is entered, processed, stored and how 
 
 Note: <br>
 8 bits makes 1 Byte. 256 is the max possible combinations i.e. "round" in Binary. Since in Binary we use 1 & 0's, 2 to the 8th power equals 265; 2 to the tenth power is 1024. By muliplying up we get MB, GB, etc.
+
+## Throughput
+- **Throughput** = The unit of meansure for how fast data moves. Calculated as bps or bits per second.
+- **Brandwidth** = The max amount of data that can pass through a network.
+<br>
+- **Kbps** = kilobits per second or 1000 bits per second. Slow networks
+- **Mbps** = Megabits per second or 1000000 bits per second. Wireless and residential networks.
+- **Gbps** = 
