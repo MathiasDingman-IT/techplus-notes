@@ -29,7 +29,16 @@ Note: <br>
 ## Throughput
 - **Throughput** = The unit of meansure for how fast data moves. Calculated as bps or bits per second.
 - **Brandwidth** = The max amount of data that can pass through a network.
-<br>
 - **Kbps** = kilobits per second or 1000 bits per second. Slow networks
 - **Mbps** = Megabits per second or 1000000 bits per second. Wireless and residential networks.
-- **Gbps** = 
+- **Gbps** = Gigabits per second or 1000000000 bits per second. Latest PC bus standards.
+- **Tbps** = Tetabits per second or 1000000000000 bits per second. Major telecommunications between data centers, cities and countries.
+
+## Processing Speed
+- **Processing speed** = How fast a computer works doing a given task. Measured by the internal clock and processers in the CPU.
+- **Hertz** = The unit of measure for processing power. Done in cycles where 1 cycle = 1 hertz.
+- **MHz** = Megahertz or 1000000 hertz/cycles per second.
+- **GHz** = Gigahertz or 1000000000 hertz/cycles per second.
+<br>
+Todays computers = 2-4 GHz (Windows, Intel, AMD)
+Fastest computers = 6GHz.
