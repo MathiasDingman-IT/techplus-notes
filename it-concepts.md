@@ -14,3 +14,10 @@ Computer Cycle = The process of how input is entered, processed, stored and how 
 - **Decimal** = Base-10 system of counting. How humans count (0-9)
 - **Hexadecimal** = Base-16 system of counting (0-9 & A-F) using numbers and letters. Used in computer networking.
 - **Octal** = Base-8 system of counting (0-7) used in Linux & Unix for file permissions.
+
+## Storage
+- **Byte, B** = smallest unit of measure of stage
+- **Kilobyte, KB** = 1024 bytes (small text files)
+- **Megabyte, MB** = 1024 kilobytes (most files - music & photos)
+- **Gigabyte, GB** = 1024 megabytes (videos files)
+- **Terabyte, TB** = 1024 gigabytes
