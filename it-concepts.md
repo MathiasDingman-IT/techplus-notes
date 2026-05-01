@@ -16,8 +16,11 @@ Computer Cycle = The process of how input is entered, processed, stored and how 
 - **Octal** = Base-8 system of counting (0-7) used in Linux & Unix for file permissions.
 
 ## Storage
-- **Byte, B** = smallest unit of measure of stage
+- **Byte, B** = Smallest unit of measure of stage. Made up of 8 bits.
 - **Kilobyte, KB** = 1024 bytes (small text files)
 - **Megabyte, MB** = 1024 kilobytes (most files - music & photos)
 - **Gigabyte, GB** = 1024 megabytes (videos files)
 - **Terabyte, TB** = 1024 gigabytes
+- **Petabyte, PB** = 1024 terabytes
+
+Note: 8 bits makes 1 Byte. 256 is the max possible combinations i.e. "round" in Binary. Since in Binary we use 1 & 0's, 2 to the 8th power equals 265; 2 to the tenth power is 1024. By muliplying up we get MB, GB, etc.
