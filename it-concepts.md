@@ -23,4 +23,5 @@ Computer Cycle = The process of how input is entered, processed, stored and how 
 - **Terabyte, TB** = 1024 gigabytes
 - **Petabyte, PB** = 1024 terabytes
 
-Note: 8 bits makes 1 Byte. 256 is the max possible combinations i.e. "round" in Binary. Since in Binary we use 1 & 0's, 2 to the 8th power equals 265; 2 to the tenth power is 1024. By muliplying up we get MB, GB, etc.
+Note: <br>
+8 bits makes 1 Byte. 256 is the max possible combinations i.e. "round" in Binary. Since in Binary we use 1 & 0's, 2 to the 8th power equals 265; 2 to the tenth power is 1024. By muliplying up we get MB, GB, etc.
