@@ -10,7 +10,7 @@ Notes and exam prep for CompTIA Tech+
 ## goals
 To build a solid foundation in IT and transition to a cybersecurity career by 2027.
 ## progress
-- [ ] IT concepts and Terminology
+- [x] IT concepts and Terminology
 - [ ] Infrastructure
 - [ ] Applications and Software
 - [ ] Software Development Concepts
