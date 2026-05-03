@@ -42,3 +42,14 @@ Note: <br>
 <br>
 Todays computers = ~2-4 GHz (typical consumer CPU's)
 Highend CPU's = 5-6GHz.
+
+## Troubleshooting Methodology
+- **Standard Operating Procedure (SOP)** = Documentation of best practice and work instructions to fix common administrative tasks.
+
+## CompTIA Troubleshooting Methodology
+- **(1) Identify Problem** = Once a problem has been identified, interview users and gather information. Duplicate the problem. Document the symptoms and error messages. Go to knowledge base.
+-  **(2) Establish Theory of Probable Cause** = Question the obvious, i.e. check internet connection or restart the system. Consider multiple approaches, i.e. is it OS or ISP. Start at one end of the system, either forwards or backwards.
+-  **(3) Test Theory** = If confirmed, figure out steps to fix the problem. If NOT confirmed, ask for help, gather more information, or go back one step in the process.
+-  **(4) Esablish Plan and Implement the Fix** = Make a plan and put it into action. Consider effects, i.e. time, money, users, backing up data. Carry out each step one at a time to see if it works. If the problem is not fixed, escalate issue.
+-  **(5) Confirm Solution Works** = Make sure everything works from your perspective and the user's perspective. Put preventative measures in place if needed.
+-  **(6) Document Findings** = Add to the knowledge base for the future.
