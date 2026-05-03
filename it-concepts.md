@@ -16,22 +16,22 @@ Computer Cycle = The process of how input is entered, processed, stored and how 
 - **Octal** = Base-8 system of counting (0-7) used in Linux & Unix for file permissions.
 
 ## Storage
-- **Byte, B** = Smallest unit of measure of stage. Made up of 8 bits.
-- **Kilobyte, KB** = 1024 bytes (small text files)
-- **Megabyte, MB** = 1024 kilobytes (most files - music & photos)
-- **Gigabyte, GB** = 1024 megabytes (videos files)
-- **Terabyte, TB** = 1024 gigabytes
-- **Petabyte, PB** = 1024 terabytes
+- **Byte (B)** = Smallest unit of measure of storage. Made up of 8 bits.
+- **Kilobyte (KB)** = 1024 bytes (small text files)
+- **Megabyte (MB)** = 1024 kilobytes (most files - music & photos)
+- **Gigabyte (GB)** = 1024 megabytes (videos files)
+- **Terabyte (TB)** = 1024 gigabytes
+- **Petabyte (PB)** = 1024 terabytes
 
 Note: <br>
-8 bits makes 1 Byte. 256 is the max possible combinations i.e. "round" in Binary. Since in Binary we use 1 & 0's, 2 to the 8th power equals 265; 2 to the tenth power is 1024. By muliplying up we get MB, GB, etc.
+8 bits make 1 Byte. 256 is the maximum possible combinations i.e. "round" in binary. Since in binary we use 1 & 0's, 2 to the 8th power equals 256; 2 to the tenth power is 1024. By multiplying up we get MB, GB, etc.
 
 ## Throughput
-- **Throughput** = The unit of meansure for how fast data moves. Calculated as bps or bits per second.
-- **Brandwidth** = The max amount of data that can pass through a network.
-- **Kbps** = kilobits per second or 1000 bits per second. Slow networks
-- **Mbps** = Megabits per second or 1000000 bits per second. Wireless and residential networks.
-- **Gbps** = Gigabits per second or 1000000000 bits per second. Latest PC bus standards.
+- **Throughput** = The unit of meansurement for how fast data moves. Calculated as bps (bits per second).
+- **Bandwidth** = The maximum amount of data that can pass through a network.
+- **Kbps** = Kilobits per second or 1000 bits per second - Slow networks
+- **Mbps** = Megabits per second or 1000000 bits per second - Wireless and residential networks.
+- **Gbps** = Gigabits per second or 1000000000 bits per second - Latest PC bus standards.
 - **Tbps** = Tetabits per second or 1000000000000 bits per second. Major telecommunications between data centers, cities and countries.
 
 ## Processing Speed
@@ -40,5 +40,5 @@ Note: <br>
 - **MHz** = Megahertz or 1000000 hertz/cycles per second.
 - **GHz** = Gigahertz or 1000000000 hertz/cycles per second.
 <br>
-Todays computers = 2-4 GHz (Windows, Intel, AMD)
-Fastest computers = 6GHz.
+Todays computers = ~2-4 GHz (typical consumer CPU's)
+Highend CPU's = 5-6GHz.
