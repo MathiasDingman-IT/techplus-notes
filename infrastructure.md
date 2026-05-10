@@ -44,3 +44,13 @@
 - **Flash Drives** = Portable storage devices that connect using USB ports (Type-A or Type-C).
 
 - **Non-Volatile Memory Express (NVMe)** = The protocol, or set of rules, used to transfer data.
+
+## Network Storage
+
+- **Storage Area Network (SAN)** = A form of storage that uses storage devices and servers, which can be accessed through high-speed internet connections.
+
+- **Network Attached Storage (NAS)** = A smaller version of a SAN where storage devices connect to the LAN via an Ethernet connection. They are configured with multiple hard drives in a Redundant Array of Independent Disks (RAID). This helps prevent data loss if one hard drive fails.
+
+- **File Servers** = Powerful computers used for storing data 24/7.
+
+- **Cloud Storage** = A way of storing data online by "renting" space in external data centres. They have **elasticity**, where storage can expand or contract based on the user's needs. They are also **scalable**, where more storage space can be provided if needed.
