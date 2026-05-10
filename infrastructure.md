@@ -30,3 +30,17 @@
 - **Graphics Processing Unit (GPU)** = A microprocessor used to display graphics for the user interface. Used for gaming and enhanced graphics. PCIe x16 is used for installation to the motherboard. NVIDIA is the biggest manufacturer. Resolution is shown in pixels; e.g. 1920 (horizontal) × 1080 (vertical). GPUs are also used for AI.
 
 - **Network Interface Card (NIC)** = How the computer connects to the internet, either wired or wireless. Each NIC has its own unique MAC address in hexadecimal.
+
+## Long-Term Storage
+
+- **Serial Advanced Technology Attachment (SATA)** = The interface and method used to transfer data between the motherboard and storage devices.
+
+- **Solid State Drives (SSD)** = Faster and longer-lasting than hard drives, but more expensive. Connect to the motherboard via M.2 or SATA (M.2 is faster).
+
+- **Hard Disk Drives (HDD)** = The most common type of long-term storage. Data is stored using magnetic disks inside a protective case. They have moving parts, which can fail over time. Available in either 3.5 inches (desktops, 7200 RPM) or 2.5 inches (laptops, 5400 RPM).
+
+- **Optical Drives** = A type of storage that uses light instead of magnetism; e.g. CD-ROM, DVD, and Blu-ray.
+
+- **Flash Drives** = Portable storage devices that connect using USB ports (Type-A or Type-C).
+
+- **Non-Volatile Memory Express (NVMe)** = The protocol, or set of rules, used to transfer data.
