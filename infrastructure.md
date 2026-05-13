@@ -54,3 +54,51 @@
 - **File Servers** = Powerful computers used for storing data 24/7.
 
 - **Cloud Storage** = A way of storing data online by "renting" space in external data centres. They have **elasticity**, where storage can expand or contract based on the user's needs. They are also **scalable**, where more storage space can be provided if needed.
+
+# Networking
+- **Modem** = Takes the signal from the ISP and modulates/demodulates it into a form our devices can understand.
+- **Router** = Takes the changed signal from the modem and sends it to our devices.
+- **Latency** = Also known as ping rate. It is the time it takes for a signal to travel from our computer to an internet server.
+- **Ethernet Cable / RJ-45 Connectors** = Consist of 8 wires grouped into 4 pairs. There are two standards: **T568A** and **T568B** (with T568B being the most common).
+
+To install RJ-45 connectors, you need the following tools:
+- **Crimper** = Connects the cable to the RJ-45 clip.
+- **Punch Down Tool** = Pushes the 8 wires into a patch panel or wall jack.
+- **Cable Tester** = Checks newly made cables.
+- **Tone Probe** = Finds the start and end of a cable.
+
+## Networking Types
+
+- **Cable Internet** = Uses a coaxial cable, modem, and router. Speeds range from **10 Mbps – 2 Gbps** with latency between **10–50 ms**.
+- **Digital Subscriber Line (DSL)** = Uses a telephone line, modem, and router. Speeds range from **5–50 Mbps** with latency between **20–50 ms**.
+- **Fiber Internet** = Uses fiber optic cable and a router. Speeds range from **100 Mbps – 25 Gbps** with latency between **10–25 ms**.
+- **Wireless Internet** = Uses a modem and router. Speeds range from **40–300 Mbps** with latency between **10–25 ms**. Examples include radio waves, satellite, and cellular connections.
+- **Satellite Internet** = Uses a satellite dish, modem, and router. Speeds range from **3–250 Mbps** with latency of **100 ms or more**.
+- **Fixed Wireless** = Uses an antenna, modem, and router. Speeds range from **1–30 Mbps** with latency between **20–60 ms**.
+
+> **Note:** Wireless internet (Wi-Fi) is standardized under the **IEEE 802.11** family of standards.
+
+# Virtualization
+
+- **Virtualization** = A computing environment where multiple operating systems can be installed and run independently on a single physical device.
+
+## Requirements1.
+**Host Machine** = A physical computer that provides hardware resources such as CPU, memory, and storage.
+**Hypervisor / Virtual Machine Manager** = Software that manages virtual machines.
+
+- **Type 1 Hypervisor** = Installed directly on the host hardware and has direct access to system resources.
+- **Type 2 Hypervisor** = Runs as an application on the host operating system and must request permission from the OS to access hardware.
+
+**Guest Operating System** = The operating system installed inside the virtual environment.
+
+# Cloud Services
+
+- **Software as a Service (SaaS)** = Applications accessed through a web browser. The provider (such as Gmail or Google Workspace) manages the servers, hardware, operating system, and updates.
+- **Platform as a Service (PaaS)** = Provides users with development tools, operating systems, and software platforms so they do not need to build them themselves. Commonly used by developers and database administrators. Examples include Oracle, MySQL, Java, Windows, and Linux environments.
+- **Infrastructure as a Service (IaaS)** = Provides users with virtualized hardware resources such as servers, routers, and storage. It is often cheaper than purchasing physical equipment. Examples include AWS and Microsoft Azure.
+
+## Cloud Deployment 
+
+- **Public Cloud** = Users pay to access shared cloud infrastructure.
+- **Private Cloud** = A dedicated cloud environment for a single organization or user.
+- **Hybrid Cloud** = A combination of both public and private cloud environments.
