@@ -107,3 +107,24 @@ To install RJ-45 connectors, you need the following tools:
 - **Public Cloud** = Users pay to access shared cloud infrastructure.
 - **Private Cloud** = A dedicated cloud environment for a single organization or user.
 - **Hybrid Cloud** = A combination of both public and private cloud environments.
+
+## Network Identifiers
+
+- **Internet Protocol Address (IP Address)** = A unique number assigned to a device on a network. IPv4 is the most common version and is shown in four octets (either in dotted decimal notation or binary). IPv6 is a newer version written in hexadecimal.
+  
+- **Ports** = Unique numbers that the operating system assigns to different types of network traffic. Common ports include:
+  1. **21** = File Transfer Protocol (FTP)
+  2. **22** = Secure Shell (SSH) for secure communication
+  3. **23** = Telnet for unsecured communication
+  4. **80** = Hypertext Transfer Protocol (HTTP)
+  5. **443** = Hypertext Transfer Protocol Secure (HTTPS)
+  6. **587** = Simple Mail Transfer Protocol (SMTP) for email
+  7. **3389** = Remote Desktop Protocol (RDP), which allows remote access to Windows computers
+
+## Network Models
+
+- **Client/Server** = A network model where one computer (the server) provides services or resources, and another computer (the client) requests them.
+
+- **Peer-to-Peer (P2P)** = Similar to the client/server model, but each computer can act as both a client and a server.
+
+- **Local Area Network (LAN)** = A network within a single location that is managed by one organization or entity.
