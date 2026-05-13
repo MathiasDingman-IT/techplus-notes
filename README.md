@@ -11,7 +11,7 @@ Notes and exam prep for CompTIA Tech+
 To build a solid foundation in IT and transition to a cybersecurity career by 2027.
 ## progress
 - [x] IT concepts and Terminology
-- [ ] Infrastructure
+- [x] Infrastructure
 - [ ] Applications and Software
 - [ ] Software Development Concepts
 - [ ] Data and Database Fundamentals
