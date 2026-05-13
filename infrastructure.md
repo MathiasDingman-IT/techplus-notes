@@ -58,8 +58,13 @@
 # Networking
 - **Modem** = Takes the signal from the ISP and modulates/demodulates it into a form our devices can understand.
 - **Router** = Takes the changed signal from the modem and sends it to our devices.
+- **Switch** = A device that establishes contention-free network segments at OSI Layer 2
+- **Access Point** = Allows wireless devices to connect to the internet.
 - **Latency** = Also known as ping rate. It is the time it takes for a signal to travel from our computer to an internet server.
 - **Ethernet Cable / RJ-45 Connectors** = Consist of 8 wires grouped into 4 pairs. There are two standards: **T568A** and **T568B** (with T568B being the most common).
+- **Firewall** = Software and hardware that protects the network or device by filtering packets according to an access protocol list.
+- **Attenuation** = Loss of signal strength
+- **Interference** = Unwanted signals that degrade Wi-Fi performance.
 
 To install RJ-45 connectors, you need the following tools:
 - **Crimper** = Connects the cable to the RJ-45 clip.
