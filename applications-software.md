@@ -114,3 +114,173 @@ Operating systems place restrictions on file names.
 
 ```text
 ? * / \ < > : |
+```
+
+---
+
+# Software
+
+## Productivity Software
+
+### 1. Word Processing Software
+
+Programs used to create, edit, and format text documents.
+
+- Microsoft Word
+- Pages
+- LibreOffice Writer
+- Google Docs
+
+### 2. Spreadsheet Software
+
+Used for data storage, calculations, statistical analysis, and financial information.
+
+- Microsoft Excel
+- Numbers
+- Google Sheets
+
+### 3. Presentation Software
+
+Used to create visual presentations using slides.
+
+- PowerPoint
+- Keynote
+- LibreOffice Impress
+
+### 4. Diagramming and Graphic Software
+
+Used to create visual designs, diagrams, and media projects.
+
+- Online whiteboards
+- Image editing software
+- Video editors
+
+---
+
+# Collaboration Software
+
+Collaboration software allows people to work together and communicate more efficiently.
+
+- Slack
+- Microsoft Teams
+- Google Workspace
+
+## File Sharing Services
+
+- Dropbox
+- OneDrive
+- iCloud
+
+---
+
+# Remote Assistance Software
+
+Remote assistance software allows users to view and control another computer remotely.
+
+- TeamViewer
+- Quick Assist
+- AnyDesk
+
+---
+
+# Disk Management
+
+## New Technology File System (NTFS)
+
+NTFS is Microsoft's file system used to organise and manage files on storage devices.
+
+When a file is deleted, it leaves free space on the hard drive. New files may then be split and stored across different sections of the disk. Over time, this can lead to **fragmentation**, which may reduce performance.
+
+### Defragmentation
+
+Defragmentation is the process of reorganising fragmented files so they are stored together more efficiently, improving system performance.
+
+---
+
+# Interfaces
+
+There are two main types of user interfaces that allow input into a computer system.
+
+## 1. Command Line Interface (CLI)
+
+A text-based interface between the user and the operating system.
+
+Users enter commands using text. CLI systems are useful for:
+- Older computers
+- Fast navigation
+- Advanced system management
+
+### Advantages
+- Low system resource usage
+- Fast for experienced users
+- Powerful system control
+
+### Disadvantages
+- Requires knowledge of commands
+- Typing mistakes can cause errors
+- Less user-friendly for beginners
+
+---
+
+## 2. Graphical User Interface (GUI)
+
+A visual interface that allows users to interact with a computer using:
+- Windows
+- Icons
+- Menus
+- Pointers (mouse/touch)
+
+This is the most common interface used on modern computers.
+
+---
+
+# Drivers
+
+Drivers are software programs that tell the operating system how to communicate with hardware devices.
+
+Examples include:
+- Printers
+- Graphics cards
+- Keyboards
+- Audio devices
+
+Drivers may occasionally become corrupted or require updates to improve compatibility and performance.
+
+---
+
+# Web Browsers
+
+Web browsers can be customised in many ways, including:
+
+1. Installing extensions
+2. Removing extensions
+3. Enabling or disabling extensions
+4. Password management
+5. Appearance settings (Light/Dark mode)
+6. Accessibility tools for users with reading or visual difficulties
+
+---
+
+# Cache
+
+Web browsers store **cache** files to improve performance and loading times.
+
+When a website is visited, certain assets are downloaded and stored locally, such as:
+
+1. Text
+2. Images
+3. Code files
+
+This helps websites load faster on future visits.
+
+However, cached data can sometimes become outdated or corrupted. Clearing the cache allows the browser to download updated files.
+
+---
+
+# Common Uses of Artificial Intelligence (AI)
+
+1. Chatbots and virtual assistants
+2. Creating code and digital content
+3. Predictions and recommendations
+4. Image and speech recognition
+5. Data analysis and automation
