@@ -3,7 +3,7 @@ Notes and exam prep for CompTIA Tech+
 ## topic covered
 - [IT Concepts and Terminology](it-concepts.md)
 - [Infrastructure](infrastructure.md)
-- Applications and Software
+- [Applications and Software](applications-software.md)
 - Software Develoment Concepts
 - Data and Database Fundamentales
 - Security
