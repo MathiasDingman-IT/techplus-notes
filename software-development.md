@@ -158,8 +158,77 @@ SQL is widely used in:
 
 ---
 
-# Programing concepts
+# Programming Concepts
 
 ## Data Types
 
-- **Characters or Char** = variable that stores a single character.
+Data types define the kind of information a variable can store within a program.
+
+---
+
+## Character (Char)
+
+A **character** or **char** stores a single letter, number, or symbol.
+
+### Examples
+
+```text
+7
+X
+#
+```
+
+---
+
+## Strings
+
+A **string** stores a sequence of characters, words, or sentences.
+
+### Example
+
+```text
+"Hello World"
+```
+
+---
+
+## Numbers
+
+### 1. Integers
+
+Integers are **whole numbers** without decimal points.
+
+### Examples
+
+```text
+23
+-7
+243
+```
+
+---
+
+### 2. Floats
+
+Floats are numbers that contain **decimal points** or fractional values.
+
+### Examples
+
+```text
+4.01
+-98.432
+1.2
+```
+
+---
+
+## Boolean
+
+A **Boolean** data type stores one of two logical values.
+
+### Examples
+
+```text
+True
+False
+```
