@@ -158,9 +158,7 @@ SQL is widely used in:
 
 ---
 
-# Programming Concepts
-
-## Data Types
+# Data Types
 
 Data types define the kind of information a variable can store within a program.
 
@@ -232,3 +230,165 @@ A **Boolean** data type stores one of two logical values.
 True
 False
 ```
+
+---
+
+# Programming Concepts
+
+## Identifiers
+
+### Variables
+
+Variables act like containers that store data such as:
+- Numbers
+- Words
+- Sentences
+- Other values
+
+The value stored in a variable can change while the program is running.
+
+### Constants
+
+Constants are values that do not change during program execution.
+
+---
+
+# Arrays
+
+Arrays are variables that store multiple values in a single structure.
+
+Arrays can be:
+- One-dimensional
+- Two-dimensional
+- Three-dimensional
+
+## Vectors
+
+Vectors are a type of array that store groups of the same data type.
+
+### Example
+
+```text
+[23, 7, 355, 821]
+```
+
+> Note: Each value in an array has an index position. The first value is stored at index `0`, the second at index `1`, and so on.
+
+---
+
+# Functions
+
+Functions are reusable blocks of code designed to perform a specific task.
+
+A function:
+1. Receives data (input)
+2. Processes the data
+3. Returns a result (output)
+
+### Example
+
+```text
+Function add(num1, num2)
+Return num1 + num2
+```
+
+---
+
+# Objects
+
+## Object-Oriented Programming (OOP)
+
+Object-Oriented Programming (OOP) is a programming technique that organises code into **objects** and **classes**.
+
+### Objects can contain:
+- Attributes
+- Methods
+- Properties
+
+A **class** acts as a blueprint for creating objects.
+
+### Example
+
+A cup can be considered an object.
+
+#### Attributes
+- Glass
+- Paper
+- Ceramic
+
+#### Methods
+- Holding hot drinks
+- Holding cold drinks
+
+---
+
+# Programming Organisational Techniques and Logic Concepts
+
+## Organisational Techniques
+
+### 1. Pseudocode
+
+Pseudocode is the process of planning a program using structured plain language instead of a specific programming language syntax.
+
+---
+
+### 2. Object-Oriented Programming (OOP)
+
+See the section above.
+
+---
+
+### 3. Comments
+
+Comments are notes added to code to explain what the program is doing.
+
+### Example in Python
+
+```python
+# This is a comment
+```
+
+---
+
+### 4. Flowchart Concepts
+
+Flowcharts are diagrams used to represent the logic and structure of a program.
+
+#### Common Flowchart Symbols
+
+| Symbol | Meaning |
+|---|---|
+| Oval | Start or End |
+| Parallelogram | Input or Output |
+| Diamond | Decision (Yes/No or True/False) |
+| Rectangle | Process |
+| Arrow | Direction of Program Flow |
+
+---
+
+# Logic Concepts
+
+## 1. Branching
+
+Branching uses control statements to decide which section of code runs next.
+
+### Common Examples
+
+- `IF`
+- `ELSE`
+- `ELSE IF`
+
+Branching allows programs to make decisions.
+
+---
+
+## 2. Looping
+
+Looping repeats code based on a condition.
+
+### Common Examples
+
+- `FOR` loops
+- `WHILE` loops
+
+Loops help automate repetitive tasks within programs.
