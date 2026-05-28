@@ -155,3 +155,11 @@ SQL is widely used in:
 - Business systems
 - Banking systems
 - Data analysis applications
+
+---
+
+# Programing concepts
+
+## Data Types
+
+- **Characters or Char** = variable that stores a single character.
