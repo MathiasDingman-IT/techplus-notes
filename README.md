@@ -6,7 +6,7 @@ Notes and exam prep for CompTIA Tech+
 - [Applications and Software](applications-software.md)
 - [Software Development Concepts](software-development.md)
 - [Data and Database Fundamentales](data-database.md)
-- Security
+- [Security](security.md)
 ## goals
 To build a solid foundation in IT and transition to a cybersecurity career by 2027.
 ## progress
